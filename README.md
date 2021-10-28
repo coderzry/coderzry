@@ -2,7 +2,7 @@
 
 <img alt="Ruiyang Zhao" src="./assets/avatar.png" width=100 />
 
-# Hi, this isRuiyang Zhao :wave:
+# Hi, this is Ruiyang Zhao :wave:
 
 <p>
 
