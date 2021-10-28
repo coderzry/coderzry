@@ -14,7 +14,7 @@
 <p>
 
 [![Website](https://img.shields.io/badge/personal%20website-coderzry.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://coderzry.github.io/docs)
-[![Wechat Account](https://img.shields.io/badge/subscription%20account-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=wechat)](codezry)
+[![Wechat Account](https://img.shields.io/badge/wechat%EF%BC%9A-codezry-brightgreen)]
 
 </p>
 
