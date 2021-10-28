@@ -20,11 +20,11 @@
 
 ## Introduction :raised_hands:
 
-Major in Software Engineering. :man_technologist:
+软件工程专业. :man_technologist:
 
-I love open source spirit. :heart:
+热爱编程. :heart:
 
-Hope to make more friends in open source projects. :eyes:
+热爱开源. :eyes:
 
 ## Orientation :dart:
 
