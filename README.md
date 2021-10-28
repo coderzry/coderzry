@@ -20,11 +20,11 @@
 
 ## Introduction :raised_hands:
 
-软件工程专业. :man_technologist:
+软件工程专业 :man_technologist:
 
-热爱编程. :heart:
+热爱编程 :heart:
 
-热爱开源. :eyes:
+热爱开源 :eyes:
 
 ## Orientation :dart:
 
