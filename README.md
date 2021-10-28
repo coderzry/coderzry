@@ -24,8 +24,6 @@
 
 ## Introduction :raised_hands:
 
-Student of [@UESTC](https://github.com/uestcer). :school:
-
 Major in Software Engineering. :man_technologist:
 
 I love open source spirit. :heart:
