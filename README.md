@@ -8,13 +8,13 @@
 
 [![Juejin](https://img.shields.io/badge/juejin-%E5%A4%AA%E9%99%BD-blue)](https://juejin.cn/user/1389402371927598)
 [![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/coderzry)
+[![wechat](https://img.shields.io/badge/wechat%EF%BC%9A-codezry-brightgreen)](https://coderzry.github.io/docs)
 
 </p>
 
 <p>
 
 [![Website](https://img.shields.io/badge/personal%20website-coderzry.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://coderzry.github.io/docs)
-[![wechat](https://img.shields.io/badge/wechat%EF%BC%9A-codezry-brightgreen)](https://coderzry.github.io/docs)
 
 </p>
 
