@@ -15,7 +15,7 @@
 
 <p>
 
-[![Website](https://coderzry.github.io/docs/?logo=html5&logoColor=white&labelColor=red)](https://coderzry.github.io/docs/)
+[![Website](https://img.shields.io/badge/personal%20website-syy11.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://coderzry.github.io/docs)
 [![Wechat Subscription Account](https://img.shields.io/badge/subscription%20account-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=wechat)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQxNTgxNQ==&scene=124#wechat_redirect)
 
 </p>
