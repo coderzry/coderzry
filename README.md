@@ -1,8 +1,8 @@
 <div align=center>
 
-<img alt="Yiyang Sun" src="./assets/avatar.png" width=100 />
+<img alt="Ruiyang Zhao" src="./assets/avatar.png" width=100 />
 
-# Hi, this is Yiyang Sun :wave:
+# Hi, this isRuiyang Zhao :wave:
 
 <p>
 
