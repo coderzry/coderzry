@@ -65,6 +65,8 @@ I love Front End technologys. :heart:
 
 ![](https://github-profile-trophy.vercel.app/?username=coderzry&theme=flat&column=7&margin-w=10)
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderzry&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=57290456)
