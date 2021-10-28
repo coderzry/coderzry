@@ -18,8 +18,6 @@
 
 </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
-
 ## Introduction :raised_hands:
 
 Major in Software Engineering. :man_technologist:
