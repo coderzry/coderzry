@@ -63,16 +63,6 @@ I love Front End technologys. :heart:
 
 </p>
 
-## Projects :computer:
-
-[![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=config-router)](https://github.com/syy11cn/config-router)
-
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=course-assistant-miniprogram-fe)](https://github.com/syy11cn/course-assistant-miniprogram-fe)
-
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=my-blog)](https://github.com/syy11cn/my-blog)
-
-[![Typecho Theme](https://github-readme-stats.vercel.app/api/pin/?username=syy11cn&repo=18px-Typecho-Theme)](https://github.com/syy11cn/18px-Typecho-Theme)
-
 ## Analysis :point_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
